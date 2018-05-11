@@ -2,6 +2,8 @@
 
 Workshop for Buenos Aires on 11 May 2018.
 
+Edit during workshop
+
 ## Agenda
 
 ### 1. Introduction
